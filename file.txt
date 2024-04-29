@@ -2,3 +2,6 @@ digibrains
 academy
 ananthapur andrapradesh
 515001
+
+java programming
+c programming
